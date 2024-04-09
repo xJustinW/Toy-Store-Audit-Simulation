@@ -1,66 +1,35 @@
 <h1>Toy Store Audit Simulation</h1>
 
-In this lab, I am documenting the steps I take in order to install Adguard Home on my Raspberry Pi to create my own personal DNS Server. The DNS server's main role on my network is to increase privacy andd security for any device that is on my network.
+<b>In this lab, I simulate a controls and compliance assessment audit of a toy store. My target toy store goes by the name of Botium Toys. My main goal is to improves Botium's Toys security posture.</b>
 
-<h2>Why I Created My Own DNS Server</h2>
-Creating my own DNS server will allow me to control my network's domain name resolution process. To dive deeper, having my own DNS server grants me the capabilities of privacy and security. There are even very small instances of performance boosts that can be observed. Some of the benefits of having my own DNS server are as follows:
+<h2>Scope, Goals, and Risk Assessment Report</h2>
 
-- AD Blocking
-- DNS Request Blocking
-- Reduced Risk of Malware/Phishing
-- Safe Search
-- Parental Controls
-- DNS Rewrites
-- Very Slight Performance Boost
-- Much More!
+<b>This document is the precursor I am examining in order to complete my controls and compliance audit. The document contains a few different portions of information I need to examine and they are as follows:</b>
 
-Like stated before, this is a great way to take out some of the guesswork of avoiding ads, trackers, and the wild west of what we call the internet. The imposed rules, filters, and blocklists will automate security practices. This project also has a sleek dashboard similar to that of a SIEM tool that I can use to monitor incoming and outgoing traffic. Although the DNS server will intervene when told to do so, this does not take away all the responsibility from the user who is accessing the network and internet. Anyone on my network must still practice safe measures. Coming up, I will show what a natural ad query request looks like and how my computer responds to it compared to its response to an ad query with our DNS server in place and active. 
+- Scope of the Audit
+- Goals of the Audit
+- Current Assets in Botium Toy's Possession
+- A Risk Assessment of the Company
+
+<b>[View Document Here](https://docs.google.com/document/d/1TRoqjZzVVGdwDfuRn-Hw4JJqIp-pN6dAmfu0QwBb6nA/edit?usp=sharing)</b>
+
+<h2>Control Categories, Types, and Purposes</h2>
+
+<b></b>
+
+<b>[View Document Here](https://docs.google.com/document/d/15nPYxKHCb7QlUmgX0iA8ddCapzMbYchv6gOKHynDk7w/edit?usp=sharing&resourcekey=0-C8CqIN5dugCjilga8HuK1w)</b>
+
+<h2>Controls and Compliance Checklist</h2>
+
+<b></b>
+
+<b>[View Document Here](https://docs.google.com/document/d/1xMpPhbyc4coe4PTd459_UFxUm3UJtVYIMouOcPRrwdU/edit?usp=sharing)</b>
 
 <br />
 
-<h2>Wireshark: Reviewing DNS Requests Before My DNS Server Is Set Up</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Wireshark: Reviewing DNS Requests After My DNS Server Is Set Up</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://docs.google.com/document/d/1TRoqjZzVVGdwDfuRn-Hw4JJqIp-pN6dAmfu0QwBb6nA/edit?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
