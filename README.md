@@ -15,22 +15,18 @@
 
 <h2>Control Categories, Types, and Purposes</h2>
 
-<b></b>
+<b>This document is basically my little cheat sheet. It lists the different control categories, types, and purposes and is specifically tuned to the content of this project. The document makes it easier for me to stay organized.</b>
 
 <b>[View Document Here](https://docs.google.com/document/d/15nPYxKHCb7QlUmgX0iA8ddCapzMbYchv6gOKHynDk7w/edit?usp=sharing&resourcekey=0-C8CqIN5dugCjilga8HuK1w)</b>
 
 <h2>Controls and Compliance Checklist</h2>
 
-<b></b>
+<b>Here lies my try at simulating a Controls and Compliance audit on a company. Referencing both documents mentioned above I first note what controls are in place. I then check if the company is utilizing the best practices when it comes to certain industry standard frameworks and controls.</b>
 
 <b>[View Document Here](https://docs.google.com/document/d/1xMpPhbyc4coe4PTd459_UFxUm3UJtVYIMouOcPRrwdU/edit?usp=sharing)</b>
 
 <br />
 
-
-Observe the wiped disk:  <br/>
-<img src="https://docs.google.com/document/d/1TRoqjZzVVGdwDfuRn-Hw4JJqIp-pN6dAmfu0QwBb6nA/edit?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
